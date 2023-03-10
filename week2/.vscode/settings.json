@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "prettier.requireConfig": true,
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "editor.defaultFormatter": null,
+  "python.formatting.blackArgs": [
+    "-l 79"
+  ]
+}
